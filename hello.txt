@@ -2,3 +2,4 @@ hello git!! git!!!
 hello github!!!
 hot fix complated!
 修改-合并冲突-master!
+hot-fix合并冲突测试!
